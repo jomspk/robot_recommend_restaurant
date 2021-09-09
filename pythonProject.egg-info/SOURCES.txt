@@ -1,0 +1,15 @@
+setup.py
+pythonProject.egg-info/PKG-INFO
+pythonProject.egg-info/SOURCES.txt
+pythonProject.egg-info/dependency_links.txt
+pythonProject.egg-info/top_level.txt
+roboter/__init__.py
+roboter/controller/__init__.py
+roboter/controller/conversation.py
+roboter/models/__init__.py
+roboter/models/ranking.py
+roboter/models/robot.py
+roboter/views/__init__.py
+roboter/views/console.py
+talk/__init__.py
+talk/human.py
